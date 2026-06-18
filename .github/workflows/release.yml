@@ -64,7 +64,7 @@ jobs:
 
           mapfile -t files < <(
             git diff --name-only HEAD^ HEAD -- \
-              adblock adguard controld dnsmasq domains hosts ips pac rpz share wildcard \
+              adblock adguard controld dnsmasq domains hosts ips rpz share wildcard \
             | grep -E '\.(txt|pac|json)$' || true
           )
 
