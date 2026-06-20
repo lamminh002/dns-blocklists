@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 18:45 UTC
-# Version: 2026.0619.1845.18
+# Last modified: 20 Jun 2026 06:37 UTC
+# Version: 2026.0620.0637.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17025
+# Number of entries: 17042
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -72,6 +72,7 @@ local=/deuter.co.at/
 local=/diesel.co.at/
 local=/digitalinfo.co.kr/
 local=/dolomite.co.at/
+local=/drelkuvizen.co.at/
 local=/drmartensboots.co.at/
 local=/drscholls.co.za/
 local=/duneshoesouthafrica.co.za/
@@ -2722,6 +2723,7 @@ local=/bp-heizoel.de/
 local=/bp-mineraloel.de/
 local=/bpgcoin.com/
 local=/bpgroupe.com/
+local=/brabantiadeutschland.de/
 local=/bracgartenservice.de/
 local=/brachiumautoteile.de/
 local=/bradfordcutlery.com/
@@ -3248,6 +3250,7 @@ local=/cheapcharly.de/
 local=/cheapestcosmetic.com/
 local=/cheapmondo.com/
 local=/checkaktiv.de/
+local=/checkproduct.review/
 local=/cheersperuviangrill.com/
 local=/chefclearance.com/
 local=/chefsouppot.com/
@@ -4445,6 +4448,15 @@ local=/drechselbanke.com/
 local=/drechselmaschinenrabatt.com/
 local=/drechselwebshop.com/
 local=/drehfutterverkauf.com/
+local=/drelkuvizen.at/
+local=/drelkuvizen.business/
+local=/drelkuvizen.com/
+local=/drelkuvizen.net/
+local=/drelkuvizen-at.net/
+local=/drelkuvizen-austria.at/
+local=/drelkuvizen-ca.com/
+local=/drelkuvizen-official.net/
+local=/drelkuvizen-official.org/
 local=/dresdem.com/
 local=/dresdenmodehaus.de/
 local=/dressfat.com/
@@ -4828,6 +4840,7 @@ local=/elevista.de/
 local=/elevus.de/
 local=/elfa-outlet24.de/
 local=/elfbarsvape.com/
+local=/elffreundeshop.de/
 local=/elipinks.com/
 local=/elipolyse.de/
 local=/elisabethwien.at/
@@ -6625,6 +6638,9 @@ local=/golfapparelsale.com/
 local=/golfersgalore.com/
 local=/golffachhandel.eu/
 local=/golfstravismathew.com/
+local=/golvurikenz.tech/
+local=/golvurikenz-ai.at/
+local=/golvurikenz-gb.com/
 local=/gomehut.shop/
 local=/gomel-24.de/
 local=/gomell-24.de/
@@ -10471,7 +10487,6 @@ local=/modern-technik.de/
 local=/modernbedshop.com/
 local=/modernnestliving.shop/
 local=/modernoutdoorstandard.de/
-local=/moderwear.shop/
 local=/modeschulte.de/
 local=/modetalente.com/
 local=/modethermoskanne.com/
@@ -14843,6 +14858,7 @@ local=/techdachs.de/
 local=/techfield.de/
 local=/techhomede.com/
 local=/techhouse.store/
+local=/technik-ambiente.de/
 local=/technik-fuchs.de/
 local=/technik-schnaeppchen-shop.de/
 local=/technikambiente-gmbh.de/
@@ -16658,6 +16674,7 @@ local=/woodeu.de/
 local=/woodoclock.de/
 local=/woofgear.de/
 local=/wooflyx.com/
+local=/woofz.academy/
 local=/woofz.com/
 local=/woolyroots.com/
 local=/wordmarkets.com/

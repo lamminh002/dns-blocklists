@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 06:24 UTC
-# Version: 2026.0619.0624.34
+# Last modified: 20 Jun 2026 06:23 UTC
+# Version: 2026.0620.0623.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 1515
+# Number of entries: 1512
 #
 l.1mp.ru
 links.2ns.fi
@@ -442,7 +442,6 @@ dgl-cdn.exponea.com
 els-cdn.exponea.com
 fis-iittala-cdn.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
-neoengage-va-cdn.exponea.com
 pan-cdn.exponea.com
 puc-cdn.exponea.com
 raisin-cdn.exponea.com
@@ -518,7 +517,7 @@ click.instantink.hpsmart.com
 sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
-341676991.group0.sites.hscoscdn-na3.net
+sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 sites.hscoscdn10.net
 sites.hscoscdn20.net
@@ -607,7 +606,6 @@ app.metricsverse.com
 click.mfilter.net
 clk.mfilter.net
 track.mfilter.net
-email.microsoft.com
 go.microsoft.com
 target.microsoft.com
 click.email.microsoftemail.com
@@ -1189,6 +1187,7 @@ mkto-ab070017.com
 mkto-ab070069.com
 mkto-ab080055.com
 mkto-ab080061.com
+mkto-ab100192.com
 mkto-ab100241.com
 mkto-ab110171.com
 mkto-ab120150.com
@@ -1207,7 +1206,6 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
-mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -1264,7 +1262,6 @@ mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab560119.com
-mkto-ab560171.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com

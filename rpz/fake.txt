@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781894700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781937420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,13 +9,15 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Jun 2026 18:45 UTC
-; Version: 2026.0619.1845.18
+; Last modified: 20 Jun 2026 06:37 UTC
+; Version: 2026.0620.0637.36
 ; Syntax: RPZ
-; Number of entries: 34050
+; Number of entries: 34084
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
+woofz.academy CNAME .
+*.woofz.academy CNAME .
 pillarsoflight.ae CNAME .
 *.pillarsoflight.ae CNAME .
 ledger.com.ag CNAME .
@@ -262,6 +264,8 @@ diesel.co.at CNAME .
 *.diesel.co.at CNAME .
 dolomite.co.at CNAME .
 *.dolomite.co.at CNAME .
+drelkuvizen.co.at CNAME .
+*.drelkuvizen.co.at CNAME .
 drmartensboots.co.at CNAME .
 *.drmartensboots.co.at CNAME .
 garcia.co.at CNAME .
@@ -354,6 +358,10 @@ dopeskijacke.at CNAME .
 *.dopeskijacke.at CNAME .
 dortuviax.at CNAME .
 *.dortuviax.at CNAME .
+drelkuvizen.at CNAME .
+*.drelkuvizen.at CNAME .
+drelkuvizen-austria.at CNAME .
+*.drelkuvizen-austria.at CNAME .
 drohnenbewilligung.at CNAME .
 *.drohnenbewilligung.at CNAME .
 dynamo-shop.at CNAME .
@@ -468,6 +476,8 @@ goldengoosesale.at CNAME .
 *.goldengoosesale.at CNAME .
 goldschmiede-alpenglanz.at CNAME .
 *.goldschmiede-alpenglanz.at CNAME .
+golvurikenz-ai.at CNAME .
+*.golvurikenz-ai.at CNAME .
 gomez.at CNAME .
 *.gomez.at CNAME .
 grazmodehaus.at CNAME .
@@ -1282,6 +1292,8 @@ vercc.com.br CNAME .
 *.vercc.com.br CNAME .
 vermontco.com.br CNAME .
 *.vermontco.com.br CNAME .
+drelkuvizen.business CNAME .
+*.drelkuvizen.business CNAME .
 eternity.business CNAME .
 *.eternity.business CNAME .
 mainet.business CNAME .
@@ -6322,6 +6334,10 @@ drechselwebshop.com CNAME .
 *.drechselwebshop.com CNAME .
 drehfutterverkauf.com CNAME .
 *.drehfutterverkauf.com CNAME .
+drelkuvizen.com CNAME .
+*.drelkuvizen.com CNAME .
+drelkuvizen-ca.com CNAME .
+*.drelkuvizen-ca.com CNAME .
 dresdem.com CNAME .
 *.dresdem.com CNAME .
 dressfat.com CNAME .
@@ -8818,6 +8834,8 @@ golfersgalore.com CNAME .
 *.golfersgalore.com CNAME .
 golfstravismathew.com CNAME .
 *.golfstravismathew.com CNAME .
+golvurikenz-gb.com CNAME .
+*.golvurikenz-gb.com CNAME .
 gometim.com CNAME .
 *.gometim.com CNAME .
 gomla-online.com CNAME .
@@ -21870,6 +21888,8 @@ bp-heizoel.de CNAME .
 *.bp-heizoel.de CNAME .
 bp-mineraloel.de CNAME .
 *.bp-mineraloel.de CNAME .
+brabantiadeutschland.de CNAME .
+*.brabantiadeutschland.de CNAME .
 bracgartenservice.de CNAME .
 *.bracgartenservice.de CNAME .
 brachiumautoteile.de CNAME .
@@ -23076,6 +23096,8 @@ elevus.de CNAME .
 *.elevus.de CNAME .
 elfa-outlet24.de CNAME .
 *.elfa-outlet24.de CNAME .
+elffreundeshop.de CNAME .
+*.elffreundeshop.de CNAME .
 elipolyse.de CNAME .
 *.elipolyse.de CNAME .
 elisaluna-handel24.de CNAME .
@@ -28612,6 +28634,8 @@ techdachs.de CNAME .
 *.techdachs.de CNAME .
 techfield.de CNAME .
 *.techfield.de CNAME .
+technik-ambiente.de CNAME .
+*.technik-ambiente.de CNAME .
 technik-fuchs.de CNAME .
 *.technik-fuchs.de CNAME .
 technik-schnaeppchen-shop.de CNAME .
@@ -30564,6 +30588,12 @@ desigualsuomi.net CNAME .
 *.desigualsuomi.net CNAME .
 dgcex.net CNAME .
 *.dgcex.net CNAME .
+drelkuvizen.net CNAME .
+*.drelkuvizen.net CNAME .
+drelkuvizen-at.net CNAME .
+*.drelkuvizen-at.net CNAME .
+drelkuvizen-official.net CNAME .
+*.drelkuvizen-official.net CNAME .
 drugs247.net CNAME .
 *.drugs247.net CNAME .
 easyoel.net CNAME .
@@ -31414,6 +31444,8 @@ desolaron-k-mipixelum-conovaon.org CNAME .
 *.desolaron-k-mipixelum-conovaon.org CNAME .
 digipoint.org CNAME .
 *.digipoint.org CNAME .
+drelkuvizen-official.org CNAME .
+*.drelkuvizen-official.org CNAME .
 drugsline.org CNAME .
 *.drugsline.org CNAME .
 easy-software.org CNAME .
@@ -31780,6 +31812,8 @@ zeniya.pro CNAME .
 *.zeniya.pro CNAME .
 ziviveo5.pro CNAME .
 *.ziviveo5.pro CNAME .
+checkproduct.review CNAME .
+*.checkproduct.review CNAME .
 giesswein.ro CNAME .
 *.giesswein.ro CNAME .
 aaaclothing.ru CNAME .
@@ -32530,8 +32564,6 @@ modellbahnshop-club.shop CNAME .
 *.modellbahnshop-club.shop CNAME .
 modernnestliving.shop CNAME .
 *.modernnestliving.shop CNAME .
-moderwear.shop CNAME .
-*.moderwear.shop CNAME .
 modvigil.shop CNAME .
 *.modvigil.shop CNAME .
 moedllbahnlippe.shop CNAME .
@@ -33578,6 +33610,8 @@ autoled.tech CNAME .
 *.autoled.tech CNAME .
 gamebyte.tech CNAME .
 *.gamebyte.tech CNAME .
+golvurikenz.tech CNAME .
+*.golvurikenz.tech CNAME .
 installateur.prs247.tech CNAME .
 *.installateur.prs247.tech CNAME .
 sorvelutik.tech CNAME .
