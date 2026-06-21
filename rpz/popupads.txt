@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781968740 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782024420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Jun 2026 15:19 UTC
-; Version: 2026.0620.1519.10
+; Last modified: 21 Jun 2026 06:47 UTC
+; Version: 2026.0621.0647.39
 ; Syntax: RPZ
-; Number of entries: 114186
+; Number of entries: 114188
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -28960,6 +28960,8 @@ diagramwrangleupdate.com CNAME .
 *.diagramwrangleupdate.com CNAME .
 dial2day.com CNAME .
 *.dial2day.com CNAME .
+dialecttelegraph.com CNAME .
+*.dialecttelegraph.com CNAME .
 dialling-abutory.com CNAME .
 *.dialling-abutory.com CNAME .
 dialreflexunbundle.com CNAME .
@@ -52734,8 +52736,6 @@ nativclick.com CNAME .
 *.nativclick.com CNAME .
 native-adserver.com CNAME .
 *.native-adserver.com CNAME .
-native-track.com CNAME .
-*.native-track.com CNAME .
 nativeadmatch.com CNAME .
 *.nativeadmatch.com CNAME .
 nativeads.com CNAME .
@@ -61112,8 +61112,6 @@ qrjwfimn.com CNAME .
 *.qrjwfimn.com CNAME .
 qrktudjc.com CNAME .
 *.qrktudjc.com CNAME .
-qrlsx.com CNAME .
-*.qrlsx.com CNAME .
 qroofqlkiol.com CNAME .
 *.qroofqlkiol.com CNAME .
 qrqpfviewuwxh.com CNAME .
@@ -66586,8 +66584,6 @@ skydemanded.com CNAME .
 *.skydemanded.com CNAME .
 skyflyors.com CNAME .
 *.skyflyors.com CNAME .
-jeodo.skyfullove.com CNAME .
-*.jeodo.skyfullove.com CNAME .
 skyhzbuzyxogz.com CNAME .
 *.skyhzbuzyxogz.com CNAME .
 skylindo.com CNAME .
@@ -76188,6 +76184,8 @@ watchvideoplayer.com CNAME .
 *.watchvideoplayer.com CNAME .
 waterlogged-boy.com CNAME .
 *.waterlogged-boy.com CNAME .
+waterproofwheelbarrow.com CNAME .
+*.waterproofwheelbarrow.com CNAME .
 waterpurifiersreview.com CNAME .
 *.waterpurifiersreview.com CNAME .
 watery-accident.com CNAME .
@@ -79034,6 +79032,8 @@ yieqjwkyo.com CNAME .
 *.yieqjwkyo.com CNAME .
 yifangjiaju.com CNAME .
 *.yifangjiaju.com CNAME .
+yifysearch.com CNAME .
+*.yifysearch.com CNAME .
 yihainiu.com CNAME .
 *.yihainiu.com CNAME .
 yijiyou.com CNAME .
@@ -86208,6 +86208,8 @@ andylaws.net CNAME .
 *.andylaws.net CNAME .
 animersion.net CNAME .
 *.animersion.net CNAME .
+animevice.net CNAME .
+*.animevice.net CNAME .
 animevisions.net CNAME .
 *.animevisions.net CNAME .
 aninter.net CNAME .
@@ -92752,6 +92754,8 @@ gmdztiffhihsf.online CNAME .
 *.gmdztiffhihsf.online CNAME .
 gold-line.online CNAME .
 *.gold-line.online CNAME .
+gomoviescdn.online CNAME .
+*.gomoviescdn.online CNAME .
 gptzluojzguhq.online CNAME .
 *.gptzluojzguhq.online CNAME .
 gqbkxohbonzxt.online CNAME .
@@ -102118,8 +102122,6 @@ outliesscabine.shop CNAME .
 *.outliesscabine.shop CNAME .
 gg.outrickkrna.shop CNAME .
 *.gg.outrickkrna.shop CNAME .
-outroarsist.shop CNAME .
-*.outroarsist.shop CNAME .
 outspydumpish.shop CNAME .
 *.outspydumpish.shop CNAME .
 oxeatowels.shop CNAME .
@@ -102908,8 +102910,6 @@ dprptfbtilpmp.site CNAME .
 *.dprptfbtilpmp.site CNAME .
 dpssevgyylnkh.site CNAME .
 *.dpssevgyylnkh.site CNAME .
-dramb.site CNAME .
-*.dramb.site CNAME .
 dremdwbfeofrb.site CNAME .
 *.dremdwbfeofrb.site CNAME .
 dripe.site CNAME .
@@ -113566,6 +113566,8 @@ moneytator.xyz CNAME .
 *.moneytator.xyz CNAME .
 morvaxwave16.xyz CNAME .
 *.morvaxwave16.xyz CNAME .
+movienewsgo.xyz CNAME .
+*.movienewsgo.xyz CNAME .
 moviesflix4k.xyz CNAME .
 *.moviesflix4k.xyz CNAME .
 mp3pro.xyz CNAME .

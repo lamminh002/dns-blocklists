@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781968860 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782024540 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,15 +9,13 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Jun 2026 15:21 UTC
-; Version: 2026.0620.1521.05
+; Last modified: 21 Jun 2026 06:49 UTC
+; Version: 2026.0621.0649.49
 ; Syntax: RPZ
-; Number of entries: 33570
+; Number of entries: 33562
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
-woofz.academy CNAME .
-*.woofz.academy CNAME .
 pillarsoflight.ae CNAME .
 *.pillarsoflight.ae CNAME .
 ledger.com.ag CNAME .
@@ -10368,8 +10366,6 @@ jefercopellets.com CNAME .
 *.jefercopellets.com CNAME .
 jeffspoolservice.com CNAME .
 *.jeffspoolservice.com CNAME .
-jeinn.com CNAME .
-*.jeinn.com CNAME .
 jerseymonsters.com CNAME .
 *.jerseymonsters.com CNAME .
 jerseyneu.com CNAME .
@@ -13820,8 +13816,6 @@ nxsfund.com CNAME .
 *.nxsfund.com CNAME .
 nxtstreetlondon.com CNAME .
 *.nxtstreetlondon.com CNAME .
-nze.com CNAME .
-*.nze.com CNAME .
 oakhabitsy.com CNAME .
 *.oakhabitsy.com CNAME .
 oasispoolsnspa.com CNAME .
@@ -28196,8 +28190,6 @@ tbz-versand.de CNAME .
 *.tbz-versand.de CNAME .
 tcomplex.de CNAME .
 *.tcomplex.de CNAME .
-te.de CNAME .
-*.te.de CNAME .
 teambike-hamburg.de CNAME .
 *.teambike-hamburg.de CNAME .
 teameffekt.de CNAME .

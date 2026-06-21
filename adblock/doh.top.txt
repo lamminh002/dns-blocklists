@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Jun 2026 07:43 UTC
-! Version: 2026.0619.0743.40
+! Last modified: 21 Jun 2026 07:48 UTC
+! Version: 2026.0621.0748.58
 ! Syntax: AdBlock
-! Number of entries: 266
+! Number of entries: 271
 !
 ||httpdns.music.163.com^
 ||doh.360.cn^
@@ -63,6 +63,7 @@
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
 ||dns.gamban.com^
+||doh.ptqy.gitv.tv^
 ||moph.go.th^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -90,6 +91,7 @@
 ||httpdnsmultiapivip.meituan.com^
 ||httpdns.browser.miui.com^
 ||dns.mullvad.net^
+||doh.mullvad.net^
 ||dns.aa.net.uk^
 ||ns.net.kg^
 ||httpdns.n.netease.com^
@@ -98,6 +100,7 @@
 ||steering.nextdns.io^
 ||odvr.nic.cz^
 ||dns.njal.la^
+||dns1.nordvpn.com^
 ||one.one.one.one^
 ||dns.opendns.com^
 ||doh.opendns.com^
@@ -131,6 +134,9 @@
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
 ||homenet.telecomitalia.it^
+||doh.tiar.app^
+||dot.tiar.app^
+||jp.tiarap.org^
 ||sdkconfig.tlivedns.com^
 ||dns.twnic.tw^
 ||my.ublockdns.com^
@@ -141,7 +147,6 @@
 ||h4g3z1-doh.top.web.app^
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
-||dns.weibo.cn^
 ||doh2.gslb2.xfinity.com^
 ||doh.xfinity.com^
 ||common.dot.dns.yandex.net^

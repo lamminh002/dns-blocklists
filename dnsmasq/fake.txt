@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jun 2026 15:21 UTC
-# Version: 2026.0620.1521.05
+# Last modified: 21 Jun 2026 06:49 UTC
+# Version: 2026.0621.0649.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16785
+# Number of entries: 16781
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -8075,7 +8075,6 @@ local=/jefercopellets.com/
 local=/jeffkelleher.shop/
 local=/jeffora.de/
 local=/jeffspoolservice.com/
-local=/jeinn.com/
 local=/jellycats.de/
 local=/jellylight.at/
 local=/jerseymonsters.com/
@@ -11090,7 +11089,6 @@ local=/nxsfund.com/
 local=/nxtstreetlondon.com/
 local=/nyfolk.de/
 local=/nyutxe.shop/
-local=/nze.com/
 local=/nzwir.shop/
 local=/oakdalerotary.org/
 local=/oakhabitsy.com/
@@ -14625,7 +14623,6 @@ local=/tcomplex.de/
 local=/tddexpresslogistics.com/
 local=/tdglobalcompany.io/
 local=/tdxsz.com/
-local=/te.de/
 local=/teachbrigh.com/
 local=/teambike-hamburg.de/
 local=/teameffekt.de/
@@ -16423,7 +16420,6 @@ local=/woodeu.de/
 local=/woodoclock.de/
 local=/woofgear.de/
 local=/wooflyx.com/
-local=/woofz.academy/
 local=/woofz.com/
 local=/woolyroots.com/
 local=/wordmarkets.com/

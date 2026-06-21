@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jun 2026 15:19 UTC
-# Version: 2026.0620.1519.10
+# Last modified: 21 Jun 2026 06:47 UTC
+# Version: 2026.0621.0647.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 57093
+# Number of entries: 57094
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -3126,7 +3126,6 @@ local=/wr.skimmedobtund.shop/
 local=/lq.skinsprecis.com/
 local=/gf.sklatepretil.com/
 local=/so.skouthjiggled.com/
-local=/jeodo.skyfullove.com/
 local=/kl.skyresensify.com/
 local=/9525.skywaverg.site/
 local=/gv.slainkreatic.com/
@@ -11715,6 +11714,7 @@ local=/animeclup.com/
 local=/animeloundry.com/
 local=/animemeat.com/
 local=/animersion.net/
+local=/animevice.net/
 local=/animevisions.net/
 local=/animits.com/
 local=/animositycandiedcalmly.com/
@@ -20410,6 +20410,7 @@ local=/diagnosisscript.com/
 local=/diagramjawlineunhappy.com/
 local=/diagramwrangleupdate.com/
 local=/dial2day.com/
+local=/dialecttelegraph.com/
 local=/dialling-abutory.com/
 local=/dialreflexunbundle.com/
 local=/diameterstifle.com/
@@ -21292,7 +21293,6 @@ local=/dramaticbus.pro/
 local=/dramaticconsequencedigestion.com/
 local=/dramaticdeterpulverize.com/
 local=/dramaticmight.pro/
-local=/dramb.site/
 local=/drankclosed.com/
 local=/draperyrevolvertiara.com/
 local=/dratblissfully.com/
@@ -26781,6 +26781,7 @@ local=/gomain2.pro/
 local=/gomakemerich1.com/
 local=/gomezvitaentertainment.com/
 local=/gomnlt.com/
+local=/gomoviescdn.online/
 local=/gomsop.com/
 local=/gonakehastile.shop/
 local=/gonft.com/
@@ -36446,6 +36447,7 @@ local=/movie-tv-free.com/
 local=/moviead55.ru/
 local=/movieexhibit.com/
 local=/moviemediahub.com/
+local=/movienewsgo.xyz/
 local=/movieorshow.app/
 local=/movies-flix.club/
 local=/movies-watch-time.club/
@@ -37120,7 +37122,6 @@ local=/nationsboxoffice.com/
 local=/nationsidentification.com/
 local=/nativclick.com/
 local=/native-adserver.com/
-local=/native-track.com/
 local=/nativeadmatch.com/
 local=/nativeads.com/
 local=/nativeadsfeed.com/
@@ -39739,7 +39740,6 @@ local=/outrageousostentatiousdefiant.com/
 local=/outrepublicanshelf.com/
 local=/outrightsham.com/
 local=/outrightstifflyvending.com/
-local=/outroarsist.shop/
 local=/outrotomr.com/
 local=/outrunmost.com/
 local=/outsaglooghaust.net/
@@ -43245,7 +43245,6 @@ local=/qrivmywh.xyz/
 local=/qrjiyastbajim.store/
 local=/qrjwfimn.com/
 local=/qrktudjc.com/
-local=/qrlsx.com/
 local=/qroofqlkiol.com/
 local=/qrqofbbkajwci.site/
 local=/qrqpfviewuwxh.com/
@@ -53820,6 +53819,7 @@ local=/waterlogged-boy.com/
 local=/waterlogged-stress.pro/
 local=/waterloggedsky.pro/
 local=/waterloggedstation.pro/
+local=/waterproofwheelbarrow.com/
 local=/waterpurifiersreview.com/
 local=/watery-accident.com/
 local=/watery-result.com/
@@ -56004,6 +56004,7 @@ local=/yieldtraffic.com/
 local=/yieldtrk.com/
 local=/yieqjwkyo.com/
 local=/yifangjiaju.com/
+local=/yifysearch.com/
 local=/yigrwlisuduca.website/
 local=/yihainiu.com/
 local=/yiizjiqqknoyp.site/
