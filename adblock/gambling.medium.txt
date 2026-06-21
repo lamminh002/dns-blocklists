@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Jun 2026 10:51 UTC
-! Version: 2026.0621.1051.19
+! Last modified: 21 Jun 2026 19:03 UTC
+! Version: 2026.0621.1903.13
 ! Syntax: AdBlock
-! Number of entries: 134274
+! Number of entries: 134279
 !
 ||web-119bet-2025-google-vip-119bet.119-hello.com^
 ||togelgame.150m.com^
@@ -54049,6 +54049,7 @@
 ||cratosroyalbet-11hazirangirisleri.icu^
 ||cratosroyalbet-2026giris.top^
 ||cratosroyalbet-adrestakip.icu^
+||cratosroyalbet-bet2026com.vip^
 ||cratosroyalbet-casinoqdresi2026.icu^
 ||cratosroyalbet-linkactiwe2026.icu^
 ||cratosroyalbet-startwin2026.icu^
@@ -66545,6 +66546,7 @@
 ||grandpasha-casino.com^
 ||grandpashabet.casino^
 ||grandpashabet-2026.co^
+||grandpashabet-2026.org^
 ||grandpashabet-2026-tr.top^
 ||grandpashabet-2026aktif.sbs^
 ||grandpashabet-2026guncelgiris.com^
@@ -66630,6 +66632,7 @@
 ||grandpashabetguncelgiris2026.vip^
 ||grandpashabetl.org^
 ||grandpashabetl.xyz^
+||grandpashabetnew.cam^
 ||grandpashabetorjinal2026.com^
 ||grandpashabetorjinalerisim2026.com^
 ||grandpashabets.icu^
@@ -99321,6 +99324,7 @@
 ||pascol4dlogin.com^
 ||pascuayaquitusconcasino.com^
 ||pascuayaquitusconcasino.org^
+||pashabete-gir.top^
 ||pasifikjepe.xyz^
 ||pasifiksuper.xyz^
 ||pasifikwild3.xyz^
@@ -110855,6 +110859,7 @@
 ||romabetmobilgiris.cfd^
 ||romabetsitegiris2026.icu^
 ||romabetsiteler2026.icu^
+||romabetyeniguncelgirisleri.vip^
 ||romacasino.vip^
 ||romacasinowincl.com^
 ||romainslots.win^

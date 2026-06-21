@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jun 2026 09:49 UTC
-# Version: 2026.0621.0949.50
+# Last modified: 21 Jun 2026 18:06 UTC
+# Version: 2026.0621.1806.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 57104
+# Number of entries: 57103
 #
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
@@ -2355,7 +2355,7 @@ ff.masoramarga.com
 gk.masterymucosas.com
 pp.mastrasjawlike.com
 wmw.matchin.jp
-www.vnwxkk.matchinlovee.com
+vnwxkk.matchinlovee.com
 llozqb.matchllfe.net
 ogzdxl.matchloviing.com
 qgealrijjeleazg.matchloving.net
@@ -56605,7 +56605,6 @@ zedo.com
 zeebestmarketing.com
 zeechoog.net
 zeechumy.com
-zeegewaiphegle.net
 zeekaihu.net
 zeelooshashey.net
 zeemoavaustoazy.com

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782024540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782065280 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Jun 2026 06:49 UTC
-; Version: 2026.0621.0649.49
+; Last modified: 21 Jun 2026 18:08 UTC
+; Version: 2026.0621.1808.28
 ; Syntax: RPZ
-; Number of entries: 33562
+; Number of entries: 33560
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -7480,8 +7480,6 @@ filamentmarkt.com CNAME .
 *.filamentmarkt.com CNAME .
 filamniceent.com CNAME .
 *.filamniceent.com CNAME .
-fillamoda.com CNAME .
-*.fillamoda.com CNAME .
 fillethumn.com CNAME .
 *.fillethumn.com CNAME .
 filloutlet.com CNAME .

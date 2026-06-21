@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Jun 2026 15:22 UTC
-! Version: 2026.0620.1522.47
+! Last modified: 21 Jun 2026 18:10 UTC
+! Version: 2026.0621.1810.19
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -4114,6 +4114,7 @@
 @@||imlcc.link^
 @@||imo.cx^
 @@||impl.us^
+@@||imrobpolit.pro^
 @@||in.gl^
 @@||in.mt^
 @@||incab.us^

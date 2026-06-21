@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jun 2026 14:02 UTC
-# Version: 2026.0621.1402.17
+# Last modified: 21 Jun 2026 18:48 UTC
+# Version: 2026.0621.1848.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 89865
+# Number of entries: 89869
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -337,7 +337,6 @@
 0.0.0.0 s.0cf.io
 0.0.0.0 s3.0dayporno.com
 0.0.0.0 0dayreleases.com
-0.0.0.0 0ed35fac92.com
 0.0.0.0 0f1qtj.ru
 0.0.0.0 0fees.net
 0.0.0.0 business.0fees.net
@@ -612,6 +611,8 @@
 0.0.0.0 ir-sdk.dun.163yun.com
 0.0.0.0 ye.dun.163yun.com
 0.0.0.0 165tchuang.com
+0.0.0.0 166-google.com
+0.0.0.0 facebook.166-google.com
 0.0.0.0 1680660.com
 0.0.0.0 match.p4p.1688.com
 0.0.0.0 www.16days.org
@@ -5296,7 +5297,6 @@
 0.0.0.0 ios-pclog.3u.com
 0.0.0.0 pclog.3u.com
 0.0.0.0 3utilities.com
-0.0.0.0 3uv4e4ozrekc56zx1jjwfbugpq1i275.cfd
 0.0.0.0 3vetz.com
 0.0.0.0 www.3x3eurotour.com
 0.0.0.0 3xp3cts1aim.sbs
@@ -5877,6 +5877,7 @@
 0.0.0.0 8a4f3c8d93.com
 0.0.0.0 8b81ffcb90.com
 0.0.0.0 8cjk04e7sb.com
+0.0.0.0 8dc714cafe.com
 0.0.0.0 8digits.com
 0.0.0.0 8eo93qj18r.com
 0.0.0.0 8h6oiw0uo.com
@@ -22700,6 +22701,7 @@
 0.0.0.0 bcgwbrnjyyknd.site
 0.0.0.0 bclogin-check.com
 0.0.0.0 bcloudhost.com
+0.0.0.0 bclub.mobi
 0.0.0.0 bcmediagroup.com
 0.0.0.0 bcnmonetize.com
 0.0.0.0 bcnproduction.com
@@ -25197,6 +25199,7 @@
 0.0.0.0 bugleczmoidgxo.com
 0.0.0.0 buglick.com
 0.0.0.0 bugmenot.site
+0.0.0.0 bugongpestify.shop
 0.0.0.0 analytics.buick.com
 0.0.0.0 pdmsmrt.buick.com
 0.0.0.0 buikolered.com
@@ -31367,7 +31370,6 @@
 0.0.0.0 matomo.garmin.com.cdn.cloudflare.net
 0.0.0.0 analytics.getpostman.com.cdn.cloudflare.net
 0.0.0.0 globale-analytics-sdk.global-e.com.cdn.cloudflare.net
-0.0.0.0 affiliate.klook.com.cdn.cloudflare.net
 0.0.0.0 stats.lotlinx.com.cdn.cloudflare.net
 0.0.0.0 telemetry.myq-cloud.com.cdn.cloudflare.net
 0.0.0.0 countly-api.mysugr.com.cdn.cloudflare.net
@@ -41140,6 +41142,7 @@
 0.0.0.0 detectca.easysol.net
 0.0.0.0 easytomessage.com
 0.0.0.0 t.easywebland.my
+0.0.0.0 eatcells.com
 0.0.0.0 eatenmockingoverwhelm.com
 0.0.0.0 eavesdropthenashame.com
 0.0.0.0 eawkxpuyrbkvx.website
@@ -43957,6 +43960,7 @@
 0.0.0.0 fjordsand.com
 0.0.0.0 fju2pj8y65w1cujl8n8qupp.cfd
 0.0.0.0 fjvygcmtjkvnj.site
+0.0.0.0 fk8k4t55e.com
 0.0.0.0 fkblbasqbmxvx.space
 0.0.0.0 fkcjrdqrgurcgvq.xyz
 0.0.0.0 fkilehftzwbzv.site
@@ -44413,6 +44417,7 @@
 0.0.0.0 tracker-pm2.fortunejackpartners.com
 0.0.0.0 fortvision.com
 0.0.0.0 www.fortvision.com
+0.0.0.0 fortyskinny.com
 0.0.0.0 foruftuiov.com
 0.0.0.0 my.foruftuiov.com
 0.0.0.0 forwalkprove.cfd
@@ -53362,6 +53367,7 @@
 0.0.0.0 kejet.net
 0.0.0.0 as.kejet.net
 0.0.0.0 i.kejet.net
+0.0.0.0 kekonum.com
 0.0.0.0 kektds.com
 0.0.0.0 analytics.kelasmalam.net
 0.0.0.0 kelfnfabbwugq.online
@@ -53656,7 +53662,6 @@
 0.0.0.0 kllpelaa.net
 0.0.0.0 klmmnd.com
 0.0.0.0 klnapyezsrfg.com
-0.0.0.0 affiliate.klook.com
 0.0.0.0 log.klook.com
 0.0.0.0 collect.klove.com
 0.0.0.0 klrfyid.cc
@@ -54824,6 +54829,7 @@
 0.0.0.0 lewd.ws
 0.0.0.0 lewenge.cc
 0.0.0.0 tag.lexer.io
+0.0.0.0 lexicafluency.qpon
 0.0.0.0 lexicvagile.cfd
 0.0.0.0 lexity.com
 0.0.0.0 blog.lexity.com
@@ -57643,6 +57649,7 @@
 0.0.0.0 mfcewkrob.com
 0.0.0.0 mfgvhabnnlwkd.online
 0.0.0.0 mfilecloud.com
+0.0.0.0 mfilterit.net
 0.0.0.0 mfjoxsbmnxssq.online
 0.0.0.0 mfmalergyol.com
 0.0.0.0 mfngfbmubdawu.site
@@ -63644,6 +63651,7 @@
 0.0.0.0 onclickperformance.com
 0.0.0.0 onclink.org
 0.0.0.0 onclkds.com
+0.0.0.0 onclmng.com
 0.0.0.0 oncloudshoes.de
 0.0.0.0 oncustomer.asia
 0.0.0.0 webbot.oncustomer.asia
@@ -64008,6 +64016,8 @@
 0.0.0.0 i.ooniu.com
 0.0.0.0 oooqyfcnv.com
 0.0.0.0 oops-clubsauna.com
+0.0.0.0 oopt.fr
+0.0.0.0 www.oopt.fr
 0.0.0.0 ooralisdecimagranes.cfd
 0.0.0.0 oorsoozo.top
 0.0.0.0 ooryprosed.cyou
@@ -64901,6 +64911,7 @@
 0.0.0.0 osamacom.com
 0.0.0.0 osamadada.com
 0.0.0.0 osamafusion.com
+0.0.0.0 osamagenius.com
 0.0.0.0 osamaglow.com
 0.0.0.0 osamahit.com
 0.0.0.0 osamaimpact.com
@@ -65823,14 +65834,6 @@
 0.0.0.0 repository.pcapp.store
 0.0.0.0 pccleaner.cn
 0.0.0.0 pccxfiekp.com
-0.0.0.0 pchelpsoft.com
-0.0.0.0 cloud.pchelpsoft.com
-0.0.0.0 du-api.pchelpsoft.com
-0.0.0.0 featureflags.pchelpsoft.com
-0.0.0.0 inapp.pchelpsoft.com
-0.0.0.0 offers.pchelpsoft.com
-0.0.0.0 store.pchelpsoft.com
-0.0.0.0 www.pchelpsoft.com
 0.0.0.0 sp.pcid.ca
 0.0.0.0 pcixo.com
 0.0.0.0 pcjiami.cn
@@ -72893,8 +72896,6 @@
 0.0.0.0 9145.searchmagnified.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 tracking.searchmarketing.com
-0.0.0.0 searchmarquis.com
-0.0.0.0 www.searchmarquis.com
 0.0.0.0 searchmiracle.com
 0.0.0.0 www.searchmiracle.com
 0.0.0.0 searchmobilia.shop
@@ -76622,6 +76623,7 @@
 0.0.0.0 socialcompletelydefrost.com
 0.0.0.0 more.socialflow.com
 0.0.0.0 socialmedia-careers-office.com
+0.0.0.0 socialnettraffic.com
 0.0.0.0 socialspark.com
 0.0.0.0 app.socialspark.com
 0.0.0.0 www.socialspark.com
@@ -78476,6 +78478,7 @@
 0.0.0.0 sus-wel.com
 0.0.0.0 analytics.sushi.com
 0.0.0.0 sushi-swap.app
+0.0.0.0 susigkeit.com
 0.0.0.0 susinvuvi.com
 0.0.0.0 susmovies.lol
 0.0.0.0 suspectplainrevulsion.com
@@ -81397,6 +81400,7 @@
 0.0.0.0 tovara.de
 0.0.0.0 tovery.net
 0.0.0.0 www.tovery.net
+0.0.0.0 toweleyewitnessrubbing.com
 0.0.0.0 towerjurevisdimers.qpon
 0.0.0.0 towpywcf.com
 0.0.0.0 toxauncouch.com
@@ -83472,9 +83476,6 @@
 0.0.0.0 unciteablutetercets.qpon
 0.0.0.0 unclesnewspaper.com
 0.0.0.0 unclewhiteys.com
-0.0.0.0 uncn.jp
-0.0.0.0 as.uncn.jp
-0.0.0.0 ds.uncn.jp
 0.0.0.0 uncotorture.com
 0.0.0.0 uncterilitasory.com
 0.0.0.0 unddeliv.com
@@ -84651,6 +84652,7 @@
 0.0.0.0 vhnteccjeyoyj.online
 0.0.0.0 vhnuaatydmqeg.site
 0.0.0.0 vhsdamic.com
+0.0.0.0 vhunneamjfked.website
 0.0.0.0 vhwrju18p.com
 0.0.0.0 vhyrtemq.xyz
 0.0.0.0 vi-serve.com
@@ -87067,6 +87069,7 @@
 0.0.0.0 tags.wnba.com
 0.0.0.0 wngphwgajdaek.space
 0.0.0.0 wnizjdggtn.com
+0.0.0.0 wnkqnowvrpfat.online
 0.0.0.0 wnotrbrxpealj.online
 0.0.0.0 wnouncillorswhowish.com
 0.0.0.0 wnt-s0me-push.net
@@ -87891,7 +87894,6 @@
 0.0.0.0 go.xlviirdr.com
 0.0.0.0 xlvirdr.com
 0.0.0.0 xlvpirgcrsfvqulpapey.com
-0.0.0.0 xmatch.com
 0.0.0.0 xmbqvdfywahe.com
 0.0.0.0 pcdn.xmcdn.com
 0.0.0.0 a.pcdn.xmcdn.com
@@ -88102,6 +88104,7 @@
 0.0.0.0 xwnutgihjjkadbu.com
 0.0.0.0 xwqenikbj.com
 0.0.0.0 xwqvytuiko.com
+0.0.0.0 xwrialjnotoxi.website
 0.0.0.0 xwskxrfsvcooqt.com
 0.0.0.0 xwuad.com
 0.0.0.0 stats.xwuad.com
@@ -89129,6 +89132,7 @@
 0.0.0.0 z-lib.dev
 0.0.0.0 z-lib.id
 0.0.0.0 z-lib.io
+0.0.0.0 z-lib.is
 0.0.0.0 z-lib.wiki
 0.0.0.0 z-milosci.pl
 0.0.0.0 z-promo.com

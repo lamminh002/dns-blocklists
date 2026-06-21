@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Jun 2026 15:22 UTC
-! Version: 2026.0620.1522.47
+! Last modified: 21 Jun 2026 18:10 UTC
+! Version: 2026.0621.1810.19
 ! Syntax: AdBlock
-! Number of entries: 10029
+! Number of entries: 10030
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -4193,6 +4193,7 @@
 ||imo.cx^
 ||imo-call.shop^
 ||impl.us^
+||imrobpolit.pro^
 ||in.gl^
 ||in.mt^
 ||in.run^

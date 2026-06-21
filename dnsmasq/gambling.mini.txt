@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jun 2026 10:52 UTC
-# Version: 2026.0621.1052.29
+# Last modified: 21 Jun 2026 19:05 UTC
+# Version: 2026.0621.1905.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 106718
+# Number of entries: 106723
 #
 local=/web-119bet-2025-google-vip-119bet.119-hello.com/
 local=/images.1649348.com/
@@ -43237,6 +43237,7 @@ local=/cratoscasinoo.co/
 local=/cratosroyalbet-11hazirangirisleri.icu/
 local=/cratosroyalbet-2026giris.top/
 local=/cratosroyalbet-adrestakip.icu/
+local=/cratosroyalbet-bet2026com.vip/
 local=/cratosroyalbet-casinoqdresi2026.icu/
 local=/cratosroyalbet-linkactiwe2026.icu/
 local=/cratosroyalbet-startwin2026.icu/
@@ -53253,6 +53254,7 @@ local=/grandparker.me/
 local=/grandpasha-casino.com/
 local=/grandpashabet.casino/
 local=/grandpashabet-2026.co/
+local=/grandpashabet-2026.org/
 local=/grandpashabet-2026-tr.top/
 local=/grandpashabet-2026aktif.sbs/
 local=/grandpashabet-2026guncelgiris.com/
@@ -53338,6 +53340,7 @@ local=/grandpashabetguncel2026.top/
 local=/grandpashabetguncelgiris2026.vip/
 local=/grandpashabetl.org/
 local=/grandpashabetl.xyz/
+local=/grandpashabetnew.cam/
 local=/grandpashabetorjinal2026.com/
 local=/grandpashabetorjinalerisim2026.com/
 local=/grandpashabets1.icu/
@@ -78631,6 +78634,7 @@ local=/pasartogel.id/
 local=/pasartogel168.vip/
 local=/pascoakff.com/
 local=/pascol4dlogin.com/
+local=/pashabete-gir.top/
 local=/pasifikjepe.xyz/
 local=/pasifiksuper.xyz/
 local=/pasifikwild3.xyz/
@@ -88082,6 +88086,7 @@ local=/romabetcasino.com/
 local=/romabetmobilgiris.cfd/
 local=/romabetsitegiris2026.icu/
 local=/romabetsiteler2026.icu/
+local=/romabetyeniguncelgirisleri.vip/
 local=/romacasinowincl.com/
 local=/romamakers.org/
 local=/roman-casino.ch/

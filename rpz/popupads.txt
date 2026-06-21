@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782035340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782065160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Jun 2026 09:49 UTC
-; Version: 2026.0621.0949.50
+; Last modified: 21 Jun 2026 18:06 UTC
+; Version: 2026.0621.1806.10
 ; Syntax: RPZ
-; Number of entries: 114208
+; Number of entries: 114206
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -49954,8 +49954,8 @@ matchingitv.com CNAME .
 *.matchingitv.com CNAME .
 matchinloove.com CNAME .
 *.matchinloove.com CNAME .
-www.vnwxkk.matchinlovee.com CNAME .
-*.www.vnwxkk.matchinlovee.com CNAME .
+vnwxkk.matchinlovee.com CNAME .
+*.vnwxkk.matchinlovee.com CNAME .
 matchjunkie.com CNAME .
 *.matchjunkie.com CNAME .
 matchllfe.com CNAME .
@@ -91900,8 +91900,6 @@ zauphozaucou.net CNAME .
 *.zauphozaucou.net CNAME .
 zeechoog.net CNAME .
 *.zeechoog.net CNAME .
-zeegewaiphegle.net CNAME .
-*.zeegewaiphegle.net CNAME .
 zeekaihu.net CNAME .
 *.zeekaihu.net CNAME .
 zeelooshashey.net CNAME .

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Jun 2026 13:43 UTC
-! Version: 2026.0621.1343.45
+! Last modified: 21 Jun 2026 19:08 UTC
+! Version: 2026.0621.1908.10
 ! Syntax: AdBlock
-! Number of entries: 101572
+! Number of entries: 101580
 !
 ||explorer.01coin.io^
 ||eromitai.2chblog.jp^
@@ -10849,6 +10849,7 @@
 ||badgirlsusa.com^
 ||badgirlzz.com^
 ||badhotfuck.org^
+||badideabutton.com^
 ||badiesexeprime.com^
 ||badjojo.com^
 ||badmilfs.com^
@@ -29666,6 +29667,7 @@
 ||fuckamouth.com^
 ||fuckanalporn.com^
 ||fuckandcdn.com^
+||fuckanytime.com^
 ||fuckasianfilms.com^
 ||fuckass.net^
 ||fuckatube.com^
@@ -37576,6 +37578,7 @@
 ||homecareservicesexpertingraysoncountytx.org^
 ||homeclips.com^
 ||homecunts.com^
+||homedoporn.com^
 ||homeerotica.com^
 ||homefh.world^
 ||homefuckporn.com^
@@ -48698,6 +48701,7 @@
 ||matureladiespics.com^
 ||maturelady.net^
 ||maturelaid.pro^
+||matureland.net^
 ||maturelesbiankiss.com^
 ||maturelesbianscatporn.com^
 ||maturelovers.club^
@@ -59804,6 +59808,7 @@
 ||porn-tube.quest^
 ||porn-tube.video^
 ||porn-tube-home.net^
+||porn-tube-lib.com^
 ||porn-turk-tr.monster^
 ||porn-turk-tr.store^
 ||porn-turk-tr.xyz^
@@ -62175,6 +62180,7 @@
 ||pornkingvod.shop^
 ||pornkinky.com^
 ||pornkino.cc^
+||pornkino.net^
 ||pornkino.org^
 ||pornkio.com^
 ||pornkiq.com^
@@ -96838,6 +96844,7 @@
 ||xtsexy.cfd^
 ||xtube.casa^
 ||xtube.com^
+||xtube.fun^
 ||xtube.love^
 ||xtube.monster^
 ||xtube6.com^
@@ -98291,6 +98298,7 @@
 ||xxxdamaaksaj.ru^
 ||xxxdan.asia^
 ||xxxdan.com^
+||xxxdan.yachts^
 ||xxxdan4.com^
 ||xxxdancerslive.com^
 ||xxxdasi.net^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jun 2026 13:43 UTC
-# Version: 2026.0621.1343.45
+# Last modified: 21 Jun 2026 19:08 UTC
+# Version: 2026.0621.1908.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 101572
+# Number of entries: 101580
 #
 local=/explorer.01coin.io/
 local=/eromitai.2chblog.jp/
@@ -10848,6 +10848,7 @@ local=/badgirls.xyz/
 local=/badgirlsusa.com/
 local=/badgirlzz.com/
 local=/badhotfuck.org/
+local=/badideabutton.com/
 local=/badiesexeprime.com/
 local=/badjojo.com/
 local=/badmilfs.com/
@@ -29665,6 +29666,7 @@ local=/fuckamom.com/
 local=/fuckamouth.com/
 local=/fuckanalporn.com/
 local=/fuckandcdn.com/
+local=/fuckanytime.com/
 local=/fuckasianfilms.com/
 local=/fuckass.net/
 local=/fuckatube.com/
@@ -37575,6 +37577,7 @@ local=/homecamgirl.com/
 local=/homecareservicesexpertingraysoncountytx.org/
 local=/homeclips.com/
 local=/homecunts.com/
+local=/homedoporn.com/
 local=/homeerotica.com/
 local=/homefh.world/
 local=/homefuckporn.com/
@@ -48697,6 +48700,7 @@ local=/maturekinkys.com/
 local=/matureladiespics.com/
 local=/maturelady.net/
 local=/maturelaid.pro/
+local=/matureland.net/
 local=/maturelesbiankiss.com/
 local=/maturelesbianscatporn.com/
 local=/maturelovers.club/
@@ -59803,6 +59807,7 @@ local=/porn-tube.pro/
 local=/porn-tube.quest/
 local=/porn-tube.video/
 local=/porn-tube-home.net/
+local=/porn-tube-lib.com/
 local=/porn-turk-tr.monster/
 local=/porn-turk-tr.store/
 local=/porn-turk-tr.xyz/
@@ -62174,6 +62179,7 @@ local=/pornkingvideos.com/
 local=/pornkingvod.shop/
 local=/pornkinky.com/
 local=/pornkino.cc/
+local=/pornkino.net/
 local=/pornkino.org/
 local=/pornkio.com/
 local=/pornkiq.com/
@@ -96837,6 +96843,7 @@ local=/xtruyensex.com/
 local=/xtsexy.cfd/
 local=/xtube.casa/
 local=/xtube.com/
+local=/xtube.fun/
 local=/xtube.love/
 local=/xtube.monster/
 local=/xtube6.com/
@@ -98290,6 +98297,7 @@ local=/xxxd-room.com/
 local=/xxxdamaaksaj.ru/
 local=/xxxdan.asia/
 local=/xxxdan.com/
+local=/xxxdan.yachts/
 local=/xxxdan4.com/
 local=/xxxdancerslive.com/
 local=/xxxdasi.net/
